@@ -1,0 +1,5 @@
+#примеры коммитов
+git commit -m "add readme file with project description"
+git commit -m "add selenium test for registration form"
+git commit -m "implement page object pattern for main page"
+git commit -m "add locators for product page elements"
